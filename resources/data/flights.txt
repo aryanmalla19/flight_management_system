@@ -1,0 +1,5 @@
+1::GD9876::Kathmandu::Pokhara::100.0::1::2024-06-16::false::
+2::GD5318::Kathmandu::HongKong::1000.0::2::2024-06-17::false::
+3::FH2987::Dhaka::Kathmandu::100.0::2::2024-07-21::false::
+4::GF6542::Kathmandu::Delhi::950.0::3::2024-06-27::false::
+5::HF98776::KTM::PKR::1000.0::4::2024-06-25::false::
